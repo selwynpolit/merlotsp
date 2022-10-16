@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |s|
-  s.name          = "jekyll-theme-merlot"
-  s.version       = "0.2.0"
+  s.name          = "jekyll-theme-merlotsp"
+  s.version       = "0.2.1"
   s.license       = "CC0-1.0"
   s.authors       = ["Cameron McEfee", "GitHub, Inc."]
   s.email         = ["opensource+jekyll-theme-merlot@github.com"]
