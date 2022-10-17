@@ -4,10 +4,10 @@ Gem::Specification.new do |s|
   s.name          = "jekyll-theme-merlotsp"
   s.version       = "0.2.1"
   s.license       = "CC0-1.0"
-  s.authors       = ["Cameron McEfee", "GitHub, Inc."]
-  s.email         = ["opensource+jekyll-theme-merlot@github.com"]
-  s.homepage      = "https://github.com/pages-themes/merlot"
-  s.summary       = "Merlot is a Jekyll theme for GitHub Pages"
+  s.authors       = ["Selwyn Polit"]
+  s.email         = ["selwynpolit@gmail.com"]
+  s.homepage      = "https://github.com/selwynpolit/merlotsp"
+  s.summary       = "MerlotSP is a Jekyll theme for GitHub Pages based on Merlot"
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
