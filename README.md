@@ -1,7 +1,7 @@
 # 10-16-22
 This is a fork of https://github.com/pages-themes/merlot
 That repo seems to have stagnated and I needed some changes for my github pages site at https://selwynpolit.github.io/d9book/
-I called it MerlotSP and I'm continuing with the version number.
+I called it MerlotSP and I'm continuing with the version numbering scheme.
 
 
 # The Merlot theme
