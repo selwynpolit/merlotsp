@@ -1,3 +1,9 @@
+# 10-16-22
+This is a fork of https://github.com/pages-themes/merlot
+That repo seems to have stagnated and I needed some changes for my github pages site at https://selwynpolit.github.io/d9book/
+I called it MerlotSP and I'm continuing with the version number.
+
+
 # The Merlot theme
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/merlot/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/merlot/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-merlot.svg)](https://badge.fury.io/rb/jekyll-theme-merlot)
