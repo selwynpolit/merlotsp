@@ -14,12 +14,12 @@ I called it MerlotSP and I'm continuing with the version numbering scheme.
 
 ## Usage
 
-To use the Merlot theme:
+To use the Merlotsp theme:
 
 1. Add the following to your site's `_config.yml`:
 
     ```yml
-    remote_theme: pages-themes/merlot@v0.2.0
+    remote_theme: selwynpolit/merlotsp@v0.2.2
     plugins:
     - jekyll-remote-theme # add this line to the plugins list if you already have one
     ```
