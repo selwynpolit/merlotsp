@@ -15,5 +15,8 @@ p {
 
 pre.highlight {
   width: 115%;
+  white-space: pre-wrap;
+  overflow-x: auto;
+  padding-right: 2em;
 }
 
