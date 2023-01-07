@@ -17,7 +17,8 @@ pre.highlight {
   overflow-x: auto;
   padding-right: 2em;
 }
-
+// Note. This doesn't seem to be working too well,  For some reason it won't set the width correctly for 
+// JS code blocks.
 code.language-JS {
   width: 115%;
   white-space: pre-wrap;
