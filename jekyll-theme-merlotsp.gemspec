@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name          = "jekyll-theme-merlotsp"
-  s.version       = "0.2.6"
+  s.version       = "0.2.7"
   s.license       = "CC0-1.0"
   s.authors       = ["Selwyn Polit"]
   s.email         = ["selwynpolit@gmail.com"]
